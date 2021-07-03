@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osamaa-mustafa
-- 👀 I’m interested in Artificial Intelligence|Deep Learning
+- 👀 I’m interested in Artificial Intelligence|Deep Learning|Emerging Technologies
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on AI|Deep Learning|Python
+- 💞️ I’m looking to collaborate on AI|Deep Learning|Emerging Technologies
 - 📫 How to reach me muhammadosama939@gmail.com
 
 <!---
