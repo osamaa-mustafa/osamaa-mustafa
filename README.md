@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osamaa-mustafa
-- 👀 I’m interested in Artificial Intelligence|Deep Learning|Emerging Technologies
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on AI|Deep Learning|Emerging Technologies
+- 👀 I want to learn Deep (Machine) Learning and then implement.
+- 🌱 I am currently at Dept of Computer Science, Bahria University Islamabad
+- 💞️ I want to solve problems with Deep (Machine) Learning | Computer Science
 - 📫 How to reach me muhammadosama939@gmail.com
 
 <!---
