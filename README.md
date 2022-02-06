@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @osamaa-mustafa
-- 👀 I want to learn Deep (Machine) Learning, Computer science and then implement.
+- 👀 I try to solve complex problems using computer sciene with a special focus on Deep learning/Artificial intelligence.
 - 🌱 I am currently at Dept of Computer Science, Bahria University Islamabad
-- 💞️ I want to solve problems with Deep (Machine) Learning | Computer Science
-- 📫 How to reach me muhammadosama939@gmail.com
+- 💞️ I am anytime ready to collaborate on new and interesting projects
+- 📫 How to reach me reachosamam@gmail.com
 
 <!---
 osamaa-mustafa/osamaa-mustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
