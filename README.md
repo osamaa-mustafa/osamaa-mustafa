@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osamaa-mustafa
-- 👀 I try to solve complex problems using computer sciene with a special focus on Deep learning/Artificial intelligence.
-- 🌱 I am currently at Dept of Computer Science, Bahria University Islamabad
+- 👀 I work to solve problems by providing their intelligent solutions through AI
+- 🌱 I am currently a part of Center of Excellence - Artificial Intelligence, Bahria University Islamabad as researcher
 - 💞️ I am anytime ready to collaborate on new and interesting projects
 - 📫 How to reach me reachosamam@gmail.com
 
