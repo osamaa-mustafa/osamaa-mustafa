@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osamaa-mustafa
 - 👀 I provide intelligent solutions using AI for problems that matter to mankind
-- 🌱 I am currently a part of Center of Excellence - Artificial Intelligence, Bahria University Islamabad as researcher
+- 🌱 Researcher at King's College London
 - 💞️ I am anytime ready to collaborate on new and interesting projects
 - 📫 How to reach me muhammadosama939@gmail.com
 
